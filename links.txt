@@ -1,0 +1,24 @@
+//youtube
+https://www.computerhope.com/issues/ch001002.htm
+
+
+// Interview Questions
+
+http://mithuntechnologies.com/devops/interviewquestions-audio/interview-audios.html
+
+//Ant
+http://www.vogella.com/tutorials/ApacheAnt/article.html
+https://ant.apache.org/manual/running.html
+
+Task:
+
+http://sanketdangi.com/post/62715793234/install-configure-jenkins-on-amazon-linux
+
+//notes
+https://drive.google.com/drive/folders/1bjdcrsmEnDp40nwTygp4D80Tz_wJ947H
+
+//Docker
+https://www.katacoda.com/courses/jenkins/build-docker-images
+
+//Ansiblle
+https://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/
